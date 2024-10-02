@@ -1,0 +1,541 @@
+Copy the below prompt in its entirety, starting with instructions, and add your own information in the second and third sections. You can use bullet points for the character context. This is meant to be used with GPT o1 preview and may not work with other models.
+
+----
+
+## Instructions
+Create a character concept for a Star Wars MUD. This is a roleplaying environment that is text-based, like writing a novel with many other players over a long period of time. Consider the lore of the universe, as well as the character-specific information and context provided below.
+
+You will create:
+- A character backstory and motivation, considering the character's family relations, current lore, and likely behaviors. This will be kept private and used for informing other contexts. Include tone, visual style (clothing/aesthetic, hairstyle, etc.), ideological, and political contexts.
+- A Character Sheet, based on the template below, leveraging this backstory and motivation. This will be accessible to staff and assist with future applications & driving character ideology.
+- A bio file, based on the bio template below. This will be accessible to other players and should have the tone of a short narrative biography and generally information that would be known or determinable by the public (government, school, news).
+- A series of 30 "think logs", literal thematic "thoughts" to be entered into a think log viewable by game staff. These should be in the character's past, around 2 sentences long. You can think of these like diary entries to help flesh out the growth of the character from youth to adulthood. They can describe experiences with parents, siblings, jobs, major life events, and the like. The tone & theme as well as topics can evolve as the character ages. Each one should include a number of years ago, and the character's age at the time.
+- A description, based on the sample description below. It is important that you follow the description rules & examples below.
+
+## Character information & prompt variables
+Name:
+Race:
+Planet/Place of Origin:
+Sexuality:
+Gender:
+Age:
+Social background: 
+In-game class:
+Color instructions: For the bio, use the default colors from the template. For the description, use a color scheme that matches the character's aesthetic.
+Parents names:
+Siblings/family member names:
+Basic character themes:
+
+
+## Character Specific Context
+
+
+
+
+## Description rules and examples
+### Description Rules
+Your description should be a paragraph or two describing what your character looks like. It should describe what your character looks like and not how others around them feel. It should also not include what actions others take. Examples of this include are 'You feel a sense of awe' or 'Your eyes avert and you know this isnt someone you would want to mess with'. Do not include descriptions of clothes, weapons, tools, or other objects, with the exception of special accessories or parts of the body; for example, you may note that a tattoo 'pokes out from behind' a sleeve, or describe a particular special necklace. The game has a built-in system for clothing that is separate from this description process, so we should not assume the character is wearing specific clothing unless there is a particular reason.
+
+### Description Formatting
+You will note that the description only continues for so many characters before starting a new line; this is because in the MUD, there is a buffer column wrap that begins at column 88. Therefore, most players ensure that the number of characters on one line (not counting color codes) does not exceed 88 columns in the input editor, and create a new line if it would do so. You can have as many color codes as you like, though, and the game will not count them against this 88 column limit.
+
+You can weave the color throughout the description. Since descriptions have an 88-column limit not counting color tags, you can use this to determine where the colors will show up in the buffer on output and use this to be creative, possibly using multiple colors per line or even per word, or creating a pattern that is overarching throughout the description. It is also common practice to highlight specific colors that are on the user, such as their hair color or eye color, including gradients or variable similar colors within the same strings to create an interesting effect.
+
+### Generic Description Examples
+This young male Twi'lek is surprisingly easy on the eyes. His skin, an
+exceedingly rare Rutian turquoise, is stretched taut over rippling muscles and
+a willowy frame. A number of black tribal tattoos mingle and play along the
+contours of his muscled body, lending even more to his exotic look. He carries
+himself with the gentle grace and sensual swagger of an extremely well-trained
+dancer.
+
+His handsome face is alight with playful curiosity. His lekku, a full half his
+height in length, curve back from his brow and flow down his torso to come to a
+tapered end near his waist. The angry, bloodshot eyes so common to males of his
+race are gone, replaced by a pair of lustrous violet orbs, and they radiate
+with an inviting warmth. A slender nose marks the center of his flawless
+features and comes to a gentle curve above the thin line of his soft lips. A
+playful smile breaks the pleasant uniformity of his visage and reveals a
+mouthful of sparkling white teeth.
+-----------------------------------------------
+
+Standing before you is a lithe Twi'lek female, standing about 1.7 meters tall.
+Her skin is a light blue, a mix between the color of the sky and cerulean. Her
+eyes are deep ebony orbs, with some flecks of gold around her pupils. A finely
+made leather corset tightly can usually be found hugging her body, revealing a
+rather tantalizing amount of flesh. Small scars can be seen on her lekku, and
+running along her upper arms and back. She typically sports a smile or grin to
+her purple tinted lips, humming some tune or another to herself. She carries
+herself gracefully with a bit of a joyful skip to her step. There is a small
+clink of metal as she moves, as the tools in her utility belt jostle around.
+-----------------------------------------------
+
+This human male is not quite six feet tall, with dirty blonde hair and bright
+green eyes. There are a few scars on his face and neck, though none look very
+recent. His face is clean-shaven, and his general appearance is clean if not
+well-groomed. His nose appears to have been broken at least once, sitting just
+slightly out of line with the rest of his face. His right hand appears to have
+been cut recently, covered in a series of red lines that have scabbed over for
+now. His clothes appear to be clean and well-made, though he seems to wear them
+more for comfort than for work.
+
+## Character Sheet template
+<< SAMPLE CHARACTER SHEET >>
+ 
+Character Name: Jesse James
+ 
+Character Motives: Jesse strives to gain income, but he can't be tied down to a
+job, or sedentary lifestyle. It's for this reason that he's decided that the
+best way to make money, and still be adventurous and mobile is to rob stage
+coaches, and hold up banks. Jesse does have an ulterior goal that other players
+will not be privy to knowing, and that is that he is very much in love with a
+woman, Calamity Jane, and part of his bravado is to impress Calamity Jane and
+and hopefully win her love.
+ 
+Character Strengths: Jesse projects himself to be very loyal to his gang, and
+for the most part, he is very loyal. He can be persuaded to betray them, and
+these circumstances are detailed below. Jesse is otherwise, loyal, trustworthy
+to his gang, and willing to sacrifice profit in order to help a gang-member. As
+far as criminals go, Jesse is very loyal and committed to his lifestyle.
+ 
+Character Downfalls: Jesse's love for Calamity Jane can easily be used against
+him in order to extract information from him, or even to betray his gang.
+Should anyone threaten to harm Calamity Jane, Jesse is sure to do whatever it
+takes to rescue her. Jesse also has an unusual affinity for strawberry ice
+cream. If he is captured, the sheriff could offer him strawberry ice cream as a
+means to extract at least a little information, but he won't give up too much
+just for some ice cream.
+ 
+Character Quirks and Other Miscellaneous Information: It's important to note
+that Jesse can't resist being `called out` by anyone. If a player challenges
+him to a duel, Jesse will accept every time. He doesn't like to appear weak, or
+`yellow` and will therefore defend his honor. Also, Jesse finds anyone who
+drinks anything other than whiskey or bourbon to be untrustworthy. `A man
+drinks a man's drink!` is what he always says. Jesse will not enter a deal, or
+trust anyone who can't hold their liquor.
+
+## Bio template
+
+  &032@&246-,-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-,-&032@
+ @       &026H&032o&110u&253s&246e &253o&246f &026T&032a&110g&253g&246e     |    &253Family Registry&032       @
+&246`|,      ~~~~~~~~~~~~~~          ~~~~~~~~~~~~~~~      ,|`
+      &246Title:&110                  &246Lineage:&110              
+       &246Name:&110                 &246Siblings:&110             
+        &246Age:&110               &246Birthplace:&110             
+  &032@&246-,-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-,-&032@
+ @    &253Record of Education   |     Record of Service&032    @
+&246`|,   ~~~~~~~~~~~~~~~~~~~         ~~~~~~~~~~~~~~~~~   ,|`
+      &246Location of Enrollment  &110                         
+             &246 or Recruitment:&110                  
+              &246Specialization 
+              &246or Mastery:&110                     
+  &032@&246-,-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-,-&032@
+ @     &253Personal Account     |       Achievements&032       @
+&246`|,    ~~~~~~~~~~~~~~~~            ~~~~~~~~~~~~~~     ,|`
+&110    
+  &032@&246-,-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-,-&032@
+
+
+## Color System & Formatting instructions
+
+You should use the below color codes. These are accepted by the MUD in character descriptions, as well as bio, but not in other locations you will be generating. Always output text intended to be entered into the MUD without vertical spaces in between lines, and paragraphs will have a one line space with no newline character between them.
+
+The color code is input like `&008This`. The maximum is one color per character. If a color code is used once, it will continue until it is terminated, which it should always be. For example, a string may look like: `&005This is a string that uses purple, and stops by returning to &008grey by using the grey code as an escape.` Grey is the default color for most things, unless another color has been selected. The default background of most terminals is black, so avoid using colors that are possible but difficult to see on a black background. Reference any color instructions the user has put in the Character Info section of this prompt to guide your use of colors. **Never use black.**
+
+Here is a comprehensive list of the color codes, names and corresponding HEX codes.
+
+[008] - Grey [#808080]
+[001] - Maroon [#800000]
+[002] - Green [#008000]
+[003] - Olive [#808000]
+[004] - Navy [#000080]
+[005] - Purple [#800080]
+[006] - Teal [#008080]
+[007] - Silver [#c0c0c0]
+[009] - Red [#ff0000]
+[010] - Lime [#00ff00]
+[011] - Yellow [#ffff00]
+[012] - Blue [#0000ff]
+[013] - Fuchsia [#ff00ff]
+[014] - Aqua [#00ffff]
+[015] - White [#ffffff]
+[016] - Grey0 [#000000]
+[017] - NavyBlue [#00005f]
+[018] - DarkBlue [#000087]
+[019] - Blue3 [#0000af]
+[020] - Blue3 [#0000d7]
+[021] - Blue1 [#0000ff]
+[022] - DarkGreen [#005f00]
+[023] - DeepSkyBlue4 [#005f5f]
+[024] - DeepSkyBlue4 [#005f87]
+[025] - DeepSkyBlue4 [#005faf]
+[026] - DodgerBlue3 [#005fd7]
+[027] - DodgerBlue2 [#005fff]
+[028] - Green4 [#008700]
+[029] - SpringGreen4 [#00875f]
+[030] - Turquoise4 [#008787]
+[031] - DeepSkyBlue3 [#0087af]
+[032] - DeepSkyBlue3 [#0087d7]
+[033] - DodgerBlue1 [#0087ff]
+[034] - Green3 [#00af00]
+[035] - SpringGreen3 [#00af5f]
+[036] - DarkCyan [#00af87]
+[037] - LightSeaGreen [#00afaf]
+[038] - DeepSkyBlue2 [#00afd7]
+[039] - DeepSkyBlue1 [#00afff]
+[040] - Green3 [#00d700]
+[041] - SpringGreen3 [#00d75f]
+[042] - SpringGreen2 [#00d787]
+[043] - Cyan3 [#00d7af]
+[044] - DarkTurquoise [#00d7d7]
+[045] - Turquoise2 [#00d7ff]
+[046] - Green1 [#00ff00]
+[047] - SpringGreen2 [#00ff5f]
+[048] - SpringGreen1 [#00ff87]
+[049] - MediumSpringGreen [#00ffaf]
+[050] - Cyan2 [#00ffd7]
+[051] - Cyan1 [#00ffff]
+[052] - DarkRed [#5f0000]
+[053] - DeepPink4 [#5f005f]
+[054] - Purple4 [#5f0087]
+[055] - Purple4 [#5f00af]
+[056] - Purple3 [#5f00d7]
+[057] - BlueViolet [#5f00ff]
+[058] - Orange4 [#5f5f00]
+[059] - Grey37 [#5f5f5f]
+[060] - MediumPurple4 [#5f5f87]
+[061] - SlateBlue3 [#5f5faf]
+[062] - SlateBlue3 [#5f5fd7]
+[063] - RoyalBlue1 [#5f5fff]
+[064] - Chartreuse4 [#5f8700]
+[065] - DarkSeaGreen4 [#5f875f]
+[066] - PaleTurquoise4 [#5f8787]
+[067] - SteelBlue [#5f87af]
+[068] - SteelBlue3 [#5f87d7]
+[069] - CornflowerBlue [#5f87ff]
+[070] - Chartreuse3 [#5faf00]
+[071] - DarkSeaGreen4 [#5faf5f]
+[072] - CadetBlue [#5faf87]
+[073] - CadetBlue [#5fafaf]
+[074] - SkyBlue3 [#5fafd7]
+[075] - SteelBlue1 [#5fafff]
+[076] - Chartreuse3 [#5fd700]
+[077] - PaleGreen3 [#5fd75f]
+[078] - SeaGreen3 [#5fd787]
+[079] - Aquamarine3 [#5fd7af]
+[080] - MediumTurquoise [#5fd7d7]
+[081] - SteelBlue1 [#5fd7ff]
+[082] - Chartreuse2 [#5fff00]
+[083] - SeaGreen2 [#5fff5f]
+[084] - SeaGreen1 [#5fff87]
+[085] - SeaGreen1 [#5fffaf]
+[086] - Aquamarine1 [#5fffd7]
+[087] - DarkSlateGray2 [#5fffff]
+[088] - DarkRed [#870000]
+[089] - DeepPink4 [#87005f]
+[090] - DarkMagenta [#870087]
+[091] - DarkMagenta [#8700af]
+[092] - DarkViolet [#8700d7]
+[093] - Purple [#8700ff]
+[094] - Orange4 [#875f00]
+[095] - LightPink4 [#875f5f]
+[096] - Plum4 [#875f87]
+[097] - MediumPurple3 [#875faf]
+[098] - MediumPurple3 [#875fd7]
+[099] - SlateBlue1 [#875fff]
+[100] - Yellow4 [#878700]
+[101] - Wheat4 [#87875f]
+[102] - Grey53 [#878787]
+[103] - LightSlateGrey [#8787af]
+[104] - MediumPurple [#8787d7]
+[105] - LightSlateBlue [#8787ff]
+[106] - Yellow4 [#87af00]
+[107] - DarkOliveGreen3 [#87af5f]
+[108] - DarkSeaGreen [#87af87]
+[109] - LightSkyBlue3 [#87afaf]
+[110] - LightSkyBlue3 [#87afd7]
+[111] - SkyBlue2 [#87afff]
+[112] - Chartreuse2 [#87d700]
+[113] - DarkOliveGreen3 [#87d75f]
+[114] - PaleGreen3 [#87d787]
+[115] - DarkSeaGreen3 [#87d7af]
+[116] - DarkSlateGray3 [#87d7d7]
+[117] - SkyBlue1 [#87d7ff]
+[118] - Chartreuse1 [#87ff00]
+[119] - LightGreen [#87ff5f]
+[120] - LightGreen [#87ff87]
+[121] - PaleGreen1 [#87ffaf]
+[122] - Aquamarine1 [#87ffd7]
+[123] - DarkSlateGray1 [#87ffff]
+[124] - Red3 [#af0000]
+[125] - DeepPink4 [#af005f]
+[126] - MediumVioletRed [#af0087]
+[127] - Magenta3 [#af00af]
+[128] - DarkViolet [#af00d7]
+[129] - Purple [#af00ff]
+[130] - DarkOrange3 [#af5f00]
+[131] - IndianRed [#af5f5f]
+[132] - HotPink3 [#af5f87]
+[133] - MediumOrchid3 [#af5faf]
+[134] - MediumOrchid [#af5fd7]
+[135] - MediumPurple2 [#af5fff]
+[136] - DarkGoldenrod [#af8700]
+[137] - LightSalmon3 [#af875f]
+[138] - RosyBrown [#af8787]
+[139] - Grey63 [#af87af]
+[140] - MediumPurple2 [#af87d7]
+[141] - MediumPurple1 [#af87ff]
+[142] - Gold3 [#afaf00]
+[143] - DarkKhaki [#afaf5f]
+[144] - NavajoWhite3 [#afaf87]
+[145] - Grey69 [#afafaf]
+[146] - LightSteelBlue3 [#afafd7]
+[147] - LightSteelBlue [#afafff]
+[148] - Yellow3 [#afd700]
+[149] - DarkOliveGreen3 [#afd75f]
+[150] - DarkSeaGreen3 [#afd787]
+[151] - DarkSeaGreen2 [#afd7af]
+[152] - LightCyan3 [#afd7d7]
+[153] - LightSkyBlue1 [#afd7ff]
+[154] - GreenYellow [#afff00]
+[155] - DarkOliveGreen2 [#afff5f]
+[156] - PaleGreen1 [#afff87]
+[157] - DarkSeaGreen2 [#afffaf]
+[158] - DarkSeaGreen1 [#afffd7]
+[159] - PaleTurquoise1 [#afffff]
+[160] - Red3 [#d70000]
+[161] - DeepPink3 [#d7005f]
+[162] - DeepPink3 [#d70087]
+[163] - Magenta3 [#d700af]
+[164] - Magenta3 [#d700d7]
+[165] - Magenta2 [#d700ff]
+[166] - DarkOrange3 [#d75f00]
+[167] - IndianRed [#d75f5f]
+[168] - HotPink3 [#d75f87]
+[169] - HotPink2 [#d75faf]
+[170] - Orchid [#d75fd7]
+[171] - MediumOrchid1 [#d75fff]
+[172] - Orange3 [#d78700]
+[173] - LightSalmon3 [#d7875f]
+[174] - LightPink3 [#d78787]
+[175] - Pink3 [#d787af]
+[176] - Plum3 [#d787d7]
+[177] - Violet [#d787ff]
+[178] - Gold3 [#d7af00]
+[179] - LightGoldenrod3 [#d7af5f]
+[180] - Tan [#d7af87]
+[181] - MistyRose3 [#d7afaf]
+[182] - Thistle3 [#d7afd7]
+[183] - Plum2 [#d7afff]
+[184] - Yellow3 [#d7d700]
+[185] - Khaki3 [#d7d75f]
+[186] - LightGoldenrod2 [#d7d787]
+[187] - LightYellow3 [#d7d7af]
+[188] - Grey84 [#d7d7d7]
+[189] - LightSteelBlue1 [#d7d7ff]
+[190] - Yellow2 [#d7ff00]
+[191] - DarkOliveGreen1 [#d7ff5f]
+[192] - DarkOliveGreen1 [#d7ff87]
+[193] - DarkSeaGreen1 [#d7ffaf]
+[194] - Honeydew2 [#d7ffd7]
+[195] - LightCyan1 [#d7ffff]
+[196] - Red1 [#ff0000]
+[197] - DeepPink2 [#ff005f]
+[198] - DeepPink1 [#ff0087]
+[199] - DeepPink1 [#ff00af]
+[200] - Magenta2 [#ff00d7]
+[201] - Magenta1 [#ff00ff]
+[202] - OrangeRed1 [#ff5f00]
+[203] - IndianRed1 [#ff5f5f]
+[204] - IndianRed1 [#ff5f87]
+[205] - HotPink [#ff5faf]
+[206] - HotPink [#ff5fd7]
+[207] - MediumOrchid1 [#ff5fff]
+[208] - DarkOrange [#ff8700]
+[209] - Salmon1 [#ff875f]
+[210] - LightCoral [#ff8787]
+[211] - PaleVioletRed1 [#ff87af]
+[212] - Orchid2 [#ff87d7]
+[213] - Orchid1 [#ff87ff]
+[214] - Orange1 [#ffaf00]
+[215] - SandyBrown [#ffaf5f]
+[216] - LightSalmon1 [#ffaf87]
+[217] - LightPink1 [#ffafaf]
+[218] - Pink1 [#ffafd7]
+[219] - Plum1 [#ffafff]
+[220] - Gold1 [#ffd700]
+[221] - LightGoldenrod2 [#ffd75f]
+[222] - LightGoldenrod2 [#ffd787]
+[223] - NavajoWhite1 [#ffd7af]
+[224] - MistyRose1 [#ffd7d7]
+[225] - Thistle1 [#ffd7ff]
+[226] - Yellow1 [#ffff00]
+[227] - LightGoldenrod1 [#ffff5f]
+[228] - Khaki1 [#ffff87]
+[229] - Wheat1 [#ffffaf]
+[230] - Cornsilk1 [#ffffd7]
+[231] - Grey100 [#ffffff]
+[232] - Grey3 [#080808]
+[233] - Grey7 [#121212]
+[234] - Grey11 [#1c1c1c]
+[235] - Grey15 [#262626]
+[236] - Grey19 [#303030]
+[237] - Grey23 [#3a3a3a]
+[238] - Grey27 [#444444]
+[239] - Grey30 [#4e4e4e]
+[240] - Grey35 [#585858]
+[241] - Grey39 [#626262]
+[242] - Grey42 [#6c6c6c]
+[243] - Grey46 [#767676]
+[244] - Grey50 [#808080]
+[245] - Grey54 [#8a8a8a]
+[246] - Grey58 [#949494]
+[247] - Grey62 [#9e9e9e]
+[248] - Grey66 [#a8a8a8]
+[249] - Grey70 [#b2b2b2]
+[250] - Grey74 [#bcbcbc]
+[251] - Grey78 [#c6c6c6]
+[252] - Grey82 [#d0d0d0]
+[253] - Grey85 [#dadada]
+[254] - Grey89 [#e4e4e4]
+[255] - Grey93 [#eeeeee]
+
+## Game lore
+
+### Era Intro
+
+STAR WARS: LEGENDS OF THE JEDI                           
+ERA 1: Ghosts of the Past  
+    
+The galaxy is on edge. 225 years after the end of the Great Galactic War, the  
+GALACTIC REPUBLIC and SITH EMPIRE are beginning to move beyond the scars of  
+conflict. The two major powers remain divided by two key barriers: a vast  
+stretch of independent systems known as the Neutral Zone, and a hazardous  
+region called SHATTERED SPACE \- the aftermath of the infamous Battle of  
+Shattered Stars. This perilous zone, filled with gravitational distortions and  
+debris, remains impassable. Yet after decades of uneasy peace and the war a  
+distant memory, both governments are entering a period of renewal, casting  
+their gaze toward the neutral territories that have long kept them apart.  
+    
+The JEDI ORDER, vigilant protectors of the Galactic Republic, stand ready to  
+defend peace and justice, while the enigmatic SITH, ruling their Empire with an  
+iron grip, consolidate their power. Throughout the galaxy, numerous factions  
+vie for influence, from powerful engineering conglomerates to criminal  
+syndicates eager to seize control. As the galaxy inches closer to renewed  
+conflict, whispers of unseen threats emerge, rekindling old rivalries and  
+stoking the fires of tension.  
+     
+With allegiances shifting and past wounds reopening, neutral worlds face  
+mounting pressure to choose sides or fortify their own strength. Can the  
+Republic and Empire find a path to coexistence, or does this new age of  
+expansion herald a looming war that will once again engulf the galaxy? What  
+role will YOU play in shaping the galaxys destiny? The legend awaits\!
+
+### Meet The Clans
+
+#### The Galactic Republic  
+The Republic is a vast and diverse interstellar government, originally founded on principles of democracy, liberty, and mutual cooperation among its member worlds. Governed by a central Senate, where representatives from each planet or sector convene, the Republic strives to maintain stability and peace across the galaxy. Though its core values emphasize diplomacy and peaceful resolution of conflicts, the Republic also possesses a powerful military to protect its citizens from external threats, particularly the Sith Empire. As it expands its influence, the Republic seeks to unite more worlds under its banner, believing that a strong, centralized government is the key to preserving freedom and ensuring the galaxy's long-term stability.
+
+#### The Sith Empire    
+The purpose of the strong is to rule the weak, and the purpose of the weak is to serve the strong. The Sith Empire once ruled vast stretches of the galaxy, but in the aftermath of the Great Galactic War and the crises of the Dark Succession, it has dwindled to a small pocket surrounding the throne world of Dromund Kaas. Even Korriban, the traditional cultural heart of the Sith, was lost. The true strength of the Sith Order was not destroyed, however, and under the leadership of Lord Emperor Darth Khatai the Sith have begun to rebuild their strength and extend their influence once more into their former territories. The day will come for the strong to take their rightful place once more.
+
+#### Bespin Cloud City Authority  
+The Bespin Cloud City Authority is the amalgamation of corporations and trade guilds that run the Cloud City, attempting to keep it as an independent city state in neutral territory. A safe place for business and pleasure alike. To that end, the Authority maintains strict neutrality on Cloud City. No politics and no murder are allowed within the city. Differences are to be set aside and brotherly love embraced. There are rumors, however, that everything can be found on Bespin, even things that are best left lost.
+
+#### Black Sun Syndicate  
+The Black Sun Syndicate is a shadowy and powerful criminal organization that operates across the galaxy, thriving in the spaces where law and order falter. They are known for their vast network of smugglers, assassins, spies, and enforcers. With a reputation for ruthless efficiency and strategic cunning, the Black Sun Syndicate is involved in a wide array of illicit activities. Despite its criminal nature, the Syndicate maintains a veneer of legitimacy through a network of   
+front businesses and political connections.
+
+#### Tagge Company  
+Located on Alderaan, Tagge Company, or "TaggeCo" is a premier engineering firm renowned for luxurious and innovative products. Founded by The Baroness, Gwena Caraceli Tagge, we specialize in high-end starships, elite armor, and state-of-the-art electronics. Our commitment to quality and sophistication ensures that every product reflects the pinnacle of engineering excellence. In addition to crafting unparalleled items, TaggeCo is known for hosting exclusive events that celebrate luxury, from opulent galas and starfighter races to cutting-edge fashion shows. Experience the fusion of prestige and innovation with TaggeCo, where every detail is designed to impress.
+
+#### Veridian Industries  
+Veridian Industries, led by the mysterious Vrezl Xeth, has operated for hundreds of years in remote mining locations. Now, expanding into the engineering of spacecraft and military armaments, Veridian has built up their central location in mines of Ryloth. This factory serves as a main base of operations, though their Expedition teams and mining operatives expand in dangerous regions of deep space. Their top-secret research and development sector, rumored to be deep underground, is known for its breakthroughs in high-energy explosives and shield technology. The workers and engineers, handpicked from various worlds, are bound by strict non-disclosure agreements, and are said to be some of the most skilled in the galaxy. Vrezl Xeth's obsession with efficiency and innovation has pushed Veridian to the forefront of resource acquisition, with mining expeditions that venture into volatile, resource-rich asteroid fields. The company has also developed unique robotic mining drones to extract materials from the harshest environments, reducing sentient risk but raising questions about the ethical implications of their expanding automation.
+
+
+### Recent GNI Headlines…
+
+**\[ Senate Recess Nears End: Republic Leaders to Return to Coruscant \]**   
+The Galactic Republic's Senate recess is approaching its conclusion, with major political figures and key leaders expected to return to Coruscant for the next legislative session. The end of the recess will mark a renewed focus on galactic affairs and the upcoming debates on crucial policies and reforms. The Republic's Senate chambers are preparing for a busy period as discussions on recent developments and strategic decisions take center stage. Expect significant updates as the leaders reconvene and address pressing issues facing the galaxy \- GNI will be here to cover it all\!
+
+**\[ BCCA Celebrates Five Years Of Operation \]**   
+The Bespin Cloud City Authority is celebrating its fifth anniversary of continuous operation, marking a significant milestone in its history. Under the stewardship of Baron Administrator Zizzo Kig, the Authority has successfully managed to build the city up from a fledgling mining outpost to a full-blown tibanna harvesting operation AND travel destination. The city's prosperity has played a key role in shaping the neutral Mid Rim Worlds, and experts expect great thing from the colony in years to come. Celebrations are being held across the city, and the BCCA has invited beings from across the galaxy to visit their fine city.
+
+**\[ Explorers Prepare For Annual Shattered Space Survey Mission\]**  
+As part of the 107th annual Frontier Expedition, explorers are once again preparing to probe the outer boundaries of Shattered Space. This ambitious event, which has been a staple of galactic exploration efforts for over a century, seeks to uncover the secrets of the treacherous region formed by the catastrophic Battle of Shattered Stars 225 years ago. Despite technologal advances, recent missions have yet to make significant progress, returning with little more than data on the formidable gravitational distortions and debris fields that make Shattered Space impassable. GNI will continue to report on the mission as they probe the extreme hazards and unresolved mysteries surrounding this enigmatic zone.
+
+**\[ Void Corsairs Pirate Attacks On The Rise \]**   
+The Rim Worlds are experiencing an increase in pirate activity from the notorious Void Corsairs, with multiple reports of attacks on planetary shipping lanes. The pirates have been targeting trade routes and supply lines, causing disruptions and concerns among local populations. The increased presence of Void Corsairs is prompting calls for enhanced security measures and greater cooperation among the Rim Worlds' defenses. Authorities are working to address the escalating threat and protect the region's vital interests.
+
+**\[ Veridian Industries Expands from Mining to Advanced Engineering \]**   
+Veridian Industries, under the enigmatic leadership of CEO Vrezl Xeth, has transitioned from its traditional focus on remote mining operations to a significant role in spacecraft and military armament engineering. The company, known for its longstanding presence in the mining sector, has recently invested heavily in expanding its central facility on Ryloth. This strategic move marks a new era for Veridian Industries, positioning it as a key player in the field of advanced engineering and technological development. The expansion aims to enhance their capabilities and influence across the galaxy. Stay tuned to GNI for the latest on the galaxy's engineering firms\!
+
+**\[ Tagge Company Unveils New Showroom on Alderaan \]**   
+Tagge Company, founded by the illustrious Baroness Gwena Caraceli Tagge, has proudly unveiled its new showroom on Alderaan. Specializing in high-end starships, elite armor, and cutting-edge electronics, Tagge Company will use the new space to showcase its latest innovations and designs. The showroom represents a significant milestone for the company, offering clients an exclusive look at their premier products and reaffirming their position as leaders in luxury and advanced technology. The grand opening has been met with acclaim and interest from across the galaxy. Stay tuned to GNI for the latest on the galaxy's engineering firms\!
+
+**\[ Black Sun Syndicate Expands Influence Across Fringe Worlds \]**   
+Recent reports reveal that the notorious Black Sun Syndicate has significantly expanded its operations across the galaxy's fringe worlds. Known for its smuggling operations and deep connections to organized crime, the Syndicate is believed to be involved in an increasing array of illicit activities. Sources from the Outer Rim suggest that the Black Sun has leveraged growing tensions to enhance its control over neutral sectors. Although concrete details remain elusive, some planetary governments are reportedly willing participants in the gray market, seeking the Syndicate's services for their own ends. As the major galactic powers focus on their own rivalries, the Black Sun continues to maneuver in the shadows, subtly influencing events to its advantage. Authorities are advising vigilance against the Syndicate's growing influence.
+
+### Galactic Historical Society Archives…
+
+#### 225 Years Ago: The Catastrophe of the Battle of Shattered Stars
+
+It has been 225 years since the fateful Battle of Shattered Stars, a conflict that altered the course of galactic history. Modern historians view this battle as not just a turning point in the Great Galactic War, but a calamity whose scars remain with us today. The collapse of several stars during the battle \- the result of unchecked experimental weaponry \- created the treacherous expanse we now call Shattered Space. This region is a graveyard of ships and  
+debris, an eternal reminder of the arrogance and desperation of two warring superpowers. The Republic and Sith sought to end the war with a decisive blow, but instead, they shattered the stars themselves, forever altering the galaxy's balance.  
+   
+The true nature of the battle remains shrouded in mystery, as few survived the cataclysmic event \- none more notable than the death of Sith Lord Darth Demonis, whose ambition had sparked the war itself. Some believe the weapon that caused the stars' destruction was a last-ditch effort by Demonis to claim victory, while contrarian opinions believe the Jedi Order tapped into a taboo magick known only to them with dangerous consequences.
+
+#### 180 Years Ago: The Dark Succession and The Rise of Darth Khatai
+
+Following the death of Darth Demonis, the Sith Empire descended into a series of brief but energetic power struggles as various Warlords and Dark Council members vyed for control. These internal power struggles, known as the Dark Succession, lasted decades, continually destabilizing the Empire even as the Galactic Republic slowly began to regain its footing. The power struggles reached a crescendo 180 years ago, when Darth Khatai \- a lesser-known Sith from the Empires fringes \- emerged victorious by systematically eliminating rivals and consolidating his rule. The move was cold, calculating, and trademark Sith. Remarkably, Darth Khatai has maintained his grip on power ever since. Historians attribute his unprecedented reign to a combination of ruthless tactics and dark mastery of the Force. His enduring rule has brought a degree of stability to the Sith Empire through fear and domination. Darth Khatai's legacy is one of cold ambition, defying the typical cycle of Sith leadership.
+
+#### 153 Years Ago: Historic Treaty Conference Reaffirms Galactic Borders
+
+Around 150 years ago, key representatives from the Sith Empire, Galactic Republic, and various Neutral Systems gathered for a historic conference to reaffirm the treaty that had ended the Great Galactic War. The negotiations, held on Ithor, sought to maintain the fragile peace that had persisted for nearly a century, establishing firm borders between the two superpowers and ensuring the continued independence of the Neutral Zone.  
+   
+This conference was a critical moment in post-war diplomacy, as it confirmed the political status quo and underscored the need for cooperation despite lingering tensions. Many historians view this agreement as one of the last major efforts to prevent the rekindling of hostilities, cementing the framework that has largely endured to this day.
+
+#### 136 Years Ago: Mon Cala Civil War Divides Republic Loyalists
+
+136 years ago, the Republic planet of Mon Cala was torn apart by civil war. The Quarren, one of Mon Cala's dominant species, had grown frustrated with the Republics cautious stance toward the Sith Empire. While still loyal to the Republic, they sought a more aggressive approach to the Sith threat. Their stance put them at odds with the traditionally peaceful Mon Calamari, leading to a bloody internal conflict. The Republic intervened, but the scars of the war continue to impact Mon Cala's politics to this day.
+
+#### 122 Years Ago: Famed Expedition Into Shattered Space Vanishes Without a Trace
+
+122 years ago, a daring expedition set out to traverse the uncharted depths of Shattered Space. Using experimental hyperdrive technology, the fleet of explorers hoped to unlock the mysteries of the hazardous zone that had stymied efforts for over half a century. Led by renowned scientist Dr. Vekran Otalla, the fleet ventured deep into the chaotic region \- and was never heard from again. Despite numerous rescue missions, no trace of the fleet has ever been found, solidifying Shattered Space's deadly reputation.
+
+#### 114 Years Ago: The Great Economic Boom in the Neutral Zone
+
+Around 114 years ago, the Neutral Zone Mid Rim worlds experienced an unprecedented economic boom. Driven by advancements in technology and an explosion of trade opportunities, these previously underdeveloped regions saw rapid growth and prosperity as galactic power centers were no longer focused in Republic and Sith space. The discovery of new resources and the establishment of key trade agreements spurred investment and development, transforming the economic landscape of the Neutral Zone. This period of prosperity brought significant improvements in infrastructure, education, and overall quality of life across these worlds. As the galaxy's economic center of gravity shifted, the Mid Rim emerged as a vital player in the galactic economy, contributing to a new era of relative stability and growth.
+
+#### 101 Years Ago: Mysterious Plague Strikes Ryloth
+
+Approximately 121 years ago, Ryloth was struck by a virulent plague that swept across the wi'lek homeworld. The outbreak, initially identified as an unknown pathogen, led to widespread illness and death among the population. The disease's rapid spread and severe symptoms caused a global health crisis, prompting urgent humanitarian aid from various sectors of the galaxy. Despite extensive research and quarantine measures, the origins and full nature of the plague remain largely unknown, with many speculating about possible biological or even engineered causes.
+
+#### 78 Years Ago: Emergence of the Darth Demonis Cult
+
+Around 78 years ago, a mysterious and radical Sith collective known only as the Darth Demonis Cult began to gain prominence within the galaxy. Named after the infamous Sith Lord Darth  emonis, whose death had previously destabilized the Sith Empire, this cult embraced his dark legacy and sought to resurrect his influence. While they have never been more than a minor factor in the culture of the Sith Empire, the cult nevertheless persists to this day.
+
+#### 10 Years Ago: The Discovery of Planet Bespin
+
+Only 10 years ago, the gas giant Bespin was officially charted by the Galactic Historical Society's exploration efforts. The discovery of the planets rich Tibanna gas reserves immediately made Bespin a valuable asset, leading to the establishment of Cloud City. Since its founding, the planet has become a hub for mining operations and trade, rapidly growing into a bustling center for commerce in the Outer Rim. Bespins discovery and development mark one of the galaxy's most recent success stories after centuries of war.
+
+#### 9 Years Ago: Annual Survey of Shattered Space Boundaries
+
+Galactic Historical Society Annual Report  
+Prepared by: Galactic Survey Division  
+File Reference: SS-Probe-65-R-VI  
+    
+Subject: Boundary Conditions and Anomalous Readings in Shattered Space The Galactic Survey Division has completed its 65th annual assessment of the outer boundaries of Shattered Space. As in previous years, the region continues to demonstrate remarkable stability and consistency.  
+   
+Key Findings:  
+\*Gravitational fluctuations are consistent with prior years, maintaining their highly disruptive patterns that make any passage through Shattered Space unfeasible.   
+\*The debris field surrounding the collapsed star systems remains dense, with no significant movement detected. No new objects or previously unseen anomalies have been recorded.  
+\*Theta-band radiation levels remain stable, with no detectable fluctuations from year-to-year, reinforcing the theory that the region is in a state of equilibrium.  
+    
+Conclusions:  
+The boundaries of Shattered Space remain impassable, unchanged since the Battle of Shattered Stars ended 225 years ago. The region's persistent hazardous conditions continue to defy efforts at exploration or passage. It is the opinion of this committee that future surveys are unlikely to produce novel results unless there is a fundamental shift in either our understanding of gravitational anomalies or an unanticipated event that alters the structure of the space.  
+   
+Recommendations:  
+\*Continue annual monitoring of Shattered Space as per standing Galactic protocols.  
+\*No additional resources are recommended for exploration at this time.  
+End of Report.  
